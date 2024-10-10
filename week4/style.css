@@ -1,0 +1,17 @@
+.zzang {
+    color : red;
+    background-color : yellow;
+}
+
+#counting-num {
+    font-size : 40px;
+    font-weight : bold;
+}
+
+button {
+    background: linear-gradient(135deg, #800080, #a020f0);
+    border: 2px solid #800080;
+    outline: none; 
+    color: white;
+    font-size: 20px;
+}
