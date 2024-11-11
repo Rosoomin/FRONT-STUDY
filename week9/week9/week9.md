@@ -2,7 +2,7 @@
 
 - [과제 배포 링크](https://front-study-igtix3n1b-rosoomins-projects.vercel.app)
 
-- React 프로젝트에서 npm start 명령어를 실행시키는 방법
+- React 프로젝트에서 npm start 명령어를 실행시키는 방법.
     -- 1.React  앱 생성(예시):
     ```javascript
     npx create-react-app week9
