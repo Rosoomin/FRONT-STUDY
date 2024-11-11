@@ -16,7 +16,7 @@
     npm start
     ```
 - React 기본개념
-    - 컴포넌트 (Component): React 애플리케이션의 기본단위로, UI의 독립적인 부분을 캡슐화함. 컴포넌트는 함수형 컴포넌트와 클래스형 컴포넌트로 나뉨
+    - 컴포넌트 (Component): React 애플리케이션의 기본단위로, UI의 독립적인 부분을 캡슐화함. 컴포넌트는 함수형 컴포넌트와 클래스형 컴포넌트로 나뉨.
         \- 함수형 컴포넌트:
         ```javascript
         function Welcome(props) {
