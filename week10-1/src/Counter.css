@@ -1,0 +1,29 @@
+.counter {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: violet;
+  }
+  
+  .reset {
+    background-color: red;
+  }
+  
+  .reset:hover {
+    background-color: pink;
+  }
+  
