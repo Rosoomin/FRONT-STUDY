@@ -1,16 +1,19 @@
 import './App.css';
-import Me from './family/Me';
-import Father from './family/Father';
-import Dog from './family/Dog';
+import Counter from './Counter';
+
+function App() {
+
+ return (
+
+ <div className="App">
+
+ <h1>Counter App</h1>
+ <Counter />
+ </div>
+
+ );
+
+}
 
 
- function App() {
-  return (
-  <div className="App">
-    <Me />
-    <Father />
-    <Dog />
-  </div>
-  );
- }
- export default App;
+export default App;
